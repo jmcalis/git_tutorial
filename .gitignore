@@ -1,0 +1,9 @@
+donottrack.rtf
+#This is how you make a comment here
+#you can also ignore files like 
+/figures
+/images
+
+#or ignore types of files like
+*.pdf
+*.log
