@@ -1,3 +1,5 @@
 This is a sample document.
 It is part of the git tutorial repository
 This is an additional line that I should commit
+
+This is a line to practice using git hub
