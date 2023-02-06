@@ -2,7 +2,7 @@
 
 I used this repository to practice using git and github
 
-##Things this repo includes:
--this markdown file
--.gitignore
--.license file
+## Things this repo includes:
+- this markdown file
+- .gitignore
+- .license file
