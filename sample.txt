@@ -4,3 +4,5 @@ This is an additional line that I should commit
 
 This is a line to practice using git hub
 Here is a line added on github
+
+This is a new line that I added in the master branch. 
